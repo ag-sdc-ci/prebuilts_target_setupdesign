@@ -1,0 +1,5 @@
+# Shadow repository for setupdesign
+Package: ext-setupdesign
+Target: prebuilts/target/external/setupdesign
+Type: Extractive APEX / Android Library Shadow
+Upstream Tag: android-14.0.0_r74
